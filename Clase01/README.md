@@ -119,12 +119,10 @@ print(var)
    | menor que       | a < b          |
    | mayor igual que | a <= b         |
 
-<br>
-
-5. Operadores Lógicos:
+5. Operadores Lóicos:
 
    | Operadores | Especificación |
    | ---------- | -------------- |
-   | not        | not a          |
+   | not        | not x          |
    | or         | a or b         |
    | and        | a and b        |
