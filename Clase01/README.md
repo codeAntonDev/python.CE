@@ -116,7 +116,7 @@ print(var)
    | no igual a      | a != b         |
    | mayor que       | a > b          |
    | mayor igual que | a >= b         |
-   | mmenor que      | a < b          |
+   | menor que       | a < b          |
    | mayor igual que | a <= b         |
 
 <br>
