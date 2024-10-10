@@ -119,6 +119,8 @@ print(var)
    | menor que       | a < b          |
    | mayor igual que | a <= b         |
 
+<br>
+
 5. Operadores Lóicos:
 
    | Operadores | Especificación |
