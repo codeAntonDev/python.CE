@@ -118,3 +118,13 @@ print(var)
    | mayor igual que | a >= b         |
    | mmenor que      | a < b          |
    | mayor igual que | a <= b         |
+
+<br>
+
+5. Operadores Lógicos:
+
+   | Operadores | Especificación |
+   | ---------- | -------------- |
+   | not        | not a          |
+   | or         | a or b         |
+   | and        | a and b        |
