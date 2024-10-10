@@ -1,5 +1,7 @@
 # Strings
 saludo = "Hola Mundo"
+salud = 209
+
 
 # Flexibilidad
 # var = "Estudiantes "CE""
